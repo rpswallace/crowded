@@ -28,10 +28,14 @@
    Note: iOS development requires OS X currently
    See the Android Platform Guide for full Android installation instructions:
    <a href="https://cordova.apache.org/docs/en/edge/guide_platforms_android_index.md.html">https://cordova.apache.org/docs/en/edge/guide_platforms_android_index.md.html</a></li>
-  <li>Build your app: ionic build <b><PLATFORM></b></li>
-  <li>Simulate your app: ionic emulate <b><PLATFORM></b></li>
-  <li>Run your app on a device: ionic run <b><PLATFORM></b></li>
-  <li>Package an app using Ionic package service: ionic package <b><MODE> <PLATFORM></b></li>
+  <li>Build your app: <b>ionic build [PLATFORM]</b></li>
+  <li>Simulate your app: <b>ionic emulate [PLATFORM]</b></li>
+  <li>Run your app on a device: <b>ionic run [PLATFORM]</b></li>
+  <li>Package an app using Ionic package service: <b>ionic package [MODE] [PLATFORM]</b></li>
 </ul>
  
 <p>For more help use ionic --help or ionic docs visit the Ionic docs: <a target="_blank" href="http://ionicframework.com/docs">http://ionicframework.com/docs</a></p>
+
+<h2>Methodology</h2>
+
+<p>We are using gitflow workflow. For more information please visit <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow"></a>https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow</p>
